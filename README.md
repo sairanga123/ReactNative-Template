@@ -1,2 +1,2 @@
 # ReactNative-Template
-A template that can be used to create the beginning of a new ioS/Android application using React Native, a desktop application that lets you code with a simulator.
+A template that can be used to create the beginning of a new ioS/Android application using React Native, a desktop application that lets you code with a simulator. This particular one was is for serve-it, an application that connects the homeless and college students and tries to find a match for people around them. (For more details visit https://github.com/RockStepTripleStepTripleStep/AquaMarine)
